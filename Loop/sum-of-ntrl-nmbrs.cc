@@ -1,3 +1,6 @@
+// The code is about the Sum of 1st 10 Natural Numbers.
+
+
 #include<iostream>
 using namespace std;
 
