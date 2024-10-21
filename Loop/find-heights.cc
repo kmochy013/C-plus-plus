@@ -9,7 +9,7 @@ int main(){
 
     for( t = 0; ; t++){
         h = 3 + (10 * t) + (t * t);
-        if (h > 0 && h < 2000){
+        if (h > 0 && h < 20000){
             cout << "When Time = " << t << " " <<" Heights will be = " << h << endl;        
         }
         else{
